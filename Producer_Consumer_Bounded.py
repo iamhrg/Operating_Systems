@@ -1,4 +1,4 @@
-//This code is entitled to Harsh Gandhi.
+#This code is entitled to Harsh Gandhi.
 #Bounded Buffer Producer Consumer Problem
 
 from threading import Thread, Condition
